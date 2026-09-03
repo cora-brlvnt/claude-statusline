@@ -10,7 +10,7 @@ ponytail level (only if that plugin is installed).
 ## Install
 
 ```
-/plugin marketplace add YOUR-GITHUB-USER/claude-statusline
+/plugin marketplace add cora-brlvnt/claude-statusline
 /plugin install statusline@statusline
 /statusline
 ```
