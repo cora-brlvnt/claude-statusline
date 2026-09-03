@@ -1,0 +1,6 @@
+{
+  "name": "statusline",
+  "version": "1.0.0",
+  "description": "One-command status line: model, context bar, session cost, lines changed, git branch, project.",
+  "commands": "./commands"
+}
