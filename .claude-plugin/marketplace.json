@@ -3,6 +3,15 @@
   "name": "statusline",
   "description": "A status line for Claude Code, installed with one command.",
   "plugins": [
-    { "name": "statusline", "description": "Install a status line showing model, context usage, cost, diff, branch and project.", "source": "./", "category": "productivity" }
-  ]
+    {
+      "name": "statusline",
+      "description": "Install a status line showing model, context usage, cost, diff, branch and project.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ],
+  "owner": {
+    "name": "cora-brlvnt",
+    "url": "https://github.com/cora-brlvnt"
+  }
 }
